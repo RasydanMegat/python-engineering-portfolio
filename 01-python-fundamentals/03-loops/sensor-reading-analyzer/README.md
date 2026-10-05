@@ -38,6 +38,10 @@ This exercise combines loops, conditional classification, counters, accumulators
 - Boundary-value testing
 - Formatted engineering output
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -66,7 +70,7 @@ Minimum temperature: 15.00 C
 Maximum temperature: 75.00 C
 ```
 
-## Test scenarios
+## Test cases
 
 | Scenario | Values |
 |---|---|
@@ -80,3 +84,10 @@ Maximum temperature: 75.00 C
 ## What I learned
 
 I learned how to combine loop control with conditional classification, maintain independent category counters, calculate statistics after data collection, and safely handle invalid or empty input.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

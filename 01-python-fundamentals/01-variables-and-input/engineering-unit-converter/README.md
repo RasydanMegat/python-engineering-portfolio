@@ -32,6 +32,10 @@ pounds = kilograms x 2.20462
 - Exception handling with `try` and `except`
 - Formatted output using f-strings
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -68,3 +72,10 @@ Invalid input was also tested at the length and mass prompts.
 ## What I learned
 
 I learned how to translate engineering formulas into Python expressions, collect and convert multiple numeric inputs, control decimal precision with f-strings, and handle invalid input using `try` and `except`.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

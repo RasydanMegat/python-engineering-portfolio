@@ -24,6 +24,10 @@ This exercise applies introductory Python concepts to a small payroll calculatio
 - Exception handling with `try` and `except`
 - Formatted output using f-strings
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -75,3 +79,10 @@ Invalid input: enter numeric values
 ## What I learned
 
 I learned how to collect and convert user input, validate multiple conditions, calculate a result, handle invalid input with `try` and `except`, and format monetary output to two decimal places.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

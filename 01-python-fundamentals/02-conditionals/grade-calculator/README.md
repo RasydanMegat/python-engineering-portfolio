@@ -35,6 +35,10 @@ This exercise applies ordered conditional logic and range validation to a gradin
 - Boundary-value testing
 - Exception handling with `try` and `except`
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -43,7 +47,7 @@ From this directory, run:
 python main.py
 ```
 
-## Examples
+## Example
 
 Valid score:
 
@@ -87,3 +91,10 @@ Invalid input: enter a numeric score
 ## What I learned
 
 I learned how to validate a numeric range before processing data, arrange conditions from the highest boundary downward, and test exact boundaries to prevent classification errors.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

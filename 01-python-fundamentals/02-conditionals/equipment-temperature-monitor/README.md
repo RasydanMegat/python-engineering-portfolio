@@ -33,6 +33,10 @@ This exercise applies conditional logic to a simple equipment-monitoring scenari
 - Boundary-value testing
 - Exception handling with `try` and `except`
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -41,7 +45,7 @@ From this directory, run:
 python main.py
 ```
 
-## Examples
+## Example
 
 Normal operation:
 
@@ -81,3 +85,10 @@ Invalid input: enter a numeric temperature
 ## What I learned
 
 I learned how Python evaluates conditional branches from top to bottom, how to define non-overlapping numeric ranges, and why testing exact boundary values is essential.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

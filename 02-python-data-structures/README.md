@@ -1,6 +1,6 @@
 # 02 - Python Data Structures
 
-Exercises based primarily on **Python Data Structures**.
+Planned exercises for practising Python lists, dictionaries, tuples, and sorting.
 
 ## Topics
 

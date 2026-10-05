@@ -28,6 +28,10 @@ This exercise applies loops, sentinel values, accumulators, counters, repeated v
 - Numeric summary calculations
 - Formatted output using f-strings
 
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
 ## How to run
 
 From this directory, run:
@@ -55,7 +59,7 @@ Largest: 20.00
 Smallest: 5.00
 ```
 
-## Test scenarios
+## Test cases
 
 | Scenario | Values |
 |---|---|
@@ -69,3 +73,10 @@ Smallest: 5.00
 ## What I learned
 
 I learned how to control an indefinite loop with a sentinel value, skip invalid entries without ending the program, maintain running statistics, and safely handle an empty dataset.
+
+## Project files
+
+- [main.py](main.py) — completed implementation
+- [README.md](README.md) — usage, examples and manual checks
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)

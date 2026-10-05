@@ -1,26 +1,21 @@
-# 01 - Python Fundamentals
+# Python Fundamentals
 
-Exercises that build core Python programming and problem-solving skills.
+Seven completed exercises covering input, calculations, conditions, loops and functions.
 
-## Topics
+| Exercise | Skills demonstrated |
+| --- | --- |
+| [Employee Pay Calculator](01-variables-and-input/employee-pay-calculator/) | Input validation and arithmetic |
+| [Engineering Unit Converter](01-variables-and-input/engineering-unit-converter/) | Formulas and formatted output |
+| [Equipment Temperature Monitor](02-conditionals/equipment-temperature-monitor/) | Conditional ranges and boundary checks |
+| [Grade Calculator](02-conditionals/grade-calculator/) | Range validation and ordered conditions |
+| [Number Analyzer](03-loops/number-analyzer/) | Loops, running totals, minimum and maximum |
+| [Sensor Reading Analyzer](03-loops/sensor-reading-analyzer/) | Classification, counters and summary statistics |
+| [Engineering Conversion Toolkit](04-functions/engineering-conversion-toolkit/) | Reusable functions and menu input handling |
 
-- Variables and user input
-- Numeric calculations
-- Conditional statements
-- Loops
-- Functions
-- Strings
-- Basic exception handling
+## Next exercises
 
-## Progress
+- [ ] Voltage Safety Checker — functions and conditional decisions
+- [ ] Text Search Tool — string processing
+- [ ] Device Message Parser — structured text
 
-- [x] Employee Pay Calculator
-- [x] Engineering Unit Converter
-- [x] Equipment Temperature Monitor
-- [x] Grade Calculator
-- [x] Number Analyzer
-- [x] Sensor Reading Analyzer
-- [x] Engineering Conversion Toolkit
-- [ ] Voltage Safety Checker
-- [ ] Text Search Tool
-- [ ] Device Message Parser
+[Full learning roadmap](../ROADMAP.md) · [Portfolio overview](../README.md)

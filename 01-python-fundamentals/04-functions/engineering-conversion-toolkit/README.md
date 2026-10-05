@@ -33,7 +33,11 @@ Miles = Kilometres × 0.621371
 Kilometres = Miles × 1.60934
 ```
 
-## Run the program
+## Requirements
+
+Python 3.6 or later. No additional packages are required.
+
+## How to run
 
 From this directory, run:
 
@@ -58,17 +62,25 @@ Enter distance in miles: 10
 
 The menu appears again after each completed conversion. Selecting option `5` ends the program.
 
-## Validation
+## Test cases
 
-The completed program was checked with:
+| Menu option | Value | Expected result |
+| --- | --- | --- |
+| 1 | 0 | 32.00 F |
+| 1 | 100 | 212.00 F |
+| 2 | 32 | 0.00 C |
+| 2 | 212 | 100.00 C |
+| 3 | 10 | 6.21 mi |
+| 4 | 10 | 16.09 km |
+| 1 | -40 | -40.00 F |
+| 9 | Not requested | Invalid option message; menu returns |
+| 1.5 or abc | Not requested | Invalid input message; menu returns |
+| Any conversion | abc | Invalid input message; menu returns |
+| 5 | Not requested | Goodbye! |
 
-- standard temperature and distance values;
-- freezing and boiling temperature reference points;
-- negative temperatures;
-- unsupported menu selections;
-- decimal and text menu entries;
-- non-numeric conversion values;
-- immediate and normal exit behavior.
+## What I learned
+
+I practiced returning values from functions, handling invalid numeric input in each menu branch, and separating reusable calculations from the interactive program. I also learned why the entry-point guard prevents the menu from starting when the module is imported.
 
 ## Project files
 
@@ -77,3 +89,5 @@ engineering-conversion-toolkit/
 ├── main.py
 └── README.md
 ```
+
+[All fundamentals exercises](../../README.md) · [Portfolio overview](../../../README.md)
