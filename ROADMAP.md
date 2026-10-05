@@ -26,7 +26,28 @@ Seven fundamentals exercises are complete. Unchecked entries are planned work.
 - [ ] Student Result Manager
 - [ ] Equipment Status Summary
 
-### 3. File processing and errors
+### 3. Object-oriented programming
+
+Start after functions, lists and dictionaries. Complete file-handling practice before projects that persist data.
+
+- [ ] Device Profile
+- [ ] Temperature Sensor
+- [ ] Battery Model
+- [ ] Device Registry
+- [ ] Monitoring Station
+- [ ] Sensor Types
+- [ ] Common Sensor Interface
+- [ ] Testable Device State
+
+OOP projects (after the exercises and file handling):
+
+- [ ] Equipment Inventory Manager
+- [ ] Sensor Monitoring Station Simulator
+- [ ] Battery-Powered Device Simulator
+
+[OOP learning objectives and completion targets](06-object-oriented-programming/README.md).
+
+### 4. File processing and errors
 
 - [ ] Temperature Log Analyzer
 - [ ] Email Hour Counter
@@ -34,14 +55,14 @@ Seven fundamentals exercises are complete. Unchecked entries are planned work.
 - [ ] Safe File Reader
 - [ ] Validated Data Entry
 
-### 4. Basic projects
+### 5. Basic projects
 
 - [ ] Equipment Health Monitor
 - [ ] Production Yield Analyzer
 - [ ] Component Inventory Manager
 - [ ] Device Log Analyzer
 
-### 5. Engineering simulations
+### 6. Engineering simulations
 
 - [ ] Sensor Data Simulator
 - [ ] Device Status Monitor

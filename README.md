@@ -35,7 +35,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 - **Program structure:** functions, parameters, return values and a program entry point.
 - **Development practice:** manual test cases, clear documentation, review and Git version control.
 
-Firmware and embedded systems are career interests. Hardware integration, C/C++, and device communication are future learning areas.
+Firmware and embedded systems are career interests. Object-oriented programming is a planned learning stage; hardware integration, C/C++, and device communication are future learning areas.
 
 ## Run an exercise
 
@@ -57,6 +57,7 @@ On Windows, use `py` if `python` is unavailable. Each exercise README includes s
 | --- | --- | --- |
 | Python fundamentals | 7 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
 | Data structures | Planned | [Lists, dictionaries and sorting](02-python-data-structures/) |
+| Object-oriented programming | Planned | [Classes, objects and OOP projects](06-object-oriented-programming/) |
 | Files and error handling | Planned | [File processing](03-files-and-errors/) |
 | Basic projects | Planned | [Larger applications](04-basic-projects/) |
 | Engineering simulations | Planned | [Device and sensor scenarios](05-engineering-simulations/) |
