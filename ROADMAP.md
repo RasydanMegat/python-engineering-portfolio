@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Seven fundamentals exercises are complete. Unchecked entries are planned work.
+Eight fundamentals exercises are complete. Unchecked entries are planned work.
 
 ### 1. Python fundamentals
 
@@ -11,7 +11,7 @@ Seven fundamentals exercises are complete. Unchecked entries are planned work.
 - [x] Number Analyzer
 - [x] Sensor Reading Analyzer
 - [x] Engineering Conversion Toolkit
-- [ ] Voltage Safety Checker
+- [x] Voltage Safety Checker
 - [ ] Text Search Tool
 - [ ] Device Message Parser
 

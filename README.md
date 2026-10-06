@@ -4,15 +4,15 @@ Practical Python exercises documenting my progress toward software, firmware, an
 
 I am building a foundation in programming through small, complete command-line programs: writing an initial implementation, checking edge cases, using review feedback, and documenting the results.
 
-**Progress: 7 completed exercises.** Current focus: functions and input validation. Next planned exercise: Voltage Safety Checker.
+**Progress: 8 completed exercises.** Current focus: functions and input validation. Next planned exercise: Text Search Tool.
 
 ## Start here
 
 | Selected work | What to look for |
 | --- | --- |
+| [Voltage Safety Checker](01-python-fundamentals/04-functions/voltage-safety-checker/) | Boolean validation, finite-number checks, boundary classification, and robust input handling. |
 | [Engineering Conversion Toolkit](01-python-fundamentals/04-functions/engineering-conversion-toolkit/) | Four reusable conversion functions, a repeating menu, and input error handling. |
 | [Sensor Reading Analyzer](01-python-fundamentals/03-loops/sensor-reading-analyzer/) | Separate category counters, summary statistics, and empty-input handling. |
-| [Number Analyzer](01-python-fundamentals/03-loops/number-analyzer/) | Running statistics and minimum/maximum tracking without storing every reading. |
 
 These are learning exercises using keyboard input. The engineering examples simulate measurements; they do not connect to physical devices.
 
@@ -27,6 +27,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 | [Number Analyzer](01-python-fundamentals/03-loops/number-analyzer/) | Loops, running totals, minimum and maximum |
 | [Sensor Reading Analyzer](01-python-fundamentals/03-loops/sensor-reading-analyzer/) | Classification, counters and summary statistics |
 | [Engineering Conversion Toolkit](01-python-fundamentals/04-functions/engineering-conversion-toolkit/) | Reusable functions and menu input handling |
+| [Voltage Safety Checker](01-python-fundamentals/04-functions/voltage-safety-checker/) | Boolean validation and finite-number handling |
 
 ## Skills demonstrated
 
@@ -46,7 +47,7 @@ Clone this repository, then run an exercise from the repository root:
 ```text
 git clone https://github.com/RasydanMegat/python-engineering-portfolio.git
 cd python-engineering-portfolio
-python 01-python-fundamentals/04-functions/engineering-conversion-toolkit/main.py
+python 01-python-fundamentals/04-functions/voltage-safety-checker/main.py
 ```
 
 On Windows, use `py` if `python` is unavailable. Each exercise README includes sample input, output, and manual test cases.
@@ -55,7 +56,7 @@ On Windows, use `py` if `python` is unavailable. Each exercise README includes s
 
 | Stage | Status | Explore |
 | --- | --- | --- |
-| Python fundamentals | 7 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
+| Python fundamentals | 8 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
 | Data structures | Planned | [Lists, dictionaries and sorting](02-python-data-structures/) |
 | Object-oriented programming | Planned | [Classes, objects and OOP projects](06-object-oriented-programming/) |
 | Files and error handling | Planned | [File processing](03-files-and-errors/) |
