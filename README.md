@@ -54,14 +54,16 @@ On Windows, use `py` if `python` is unavailable. Each exercise README includes s
 
 ## Learning path
 
+The folder numbers match the learning order below. Small exercises and projects provide practice throughout each stage.
+
 | Stage | Status | Explore |
 | --- | --- | --- |
-| Python fundamentals | 8 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
-| Data structures | Planned | [Lists, dictionaries and sorting](02-python-data-structures/) |
-| Object-oriented programming | Planned | [Classes, objects and OOP projects](06-object-oriented-programming/) |
-| Files and error handling | Planned | [File processing](03-files-and-errors/) |
-| Basic projects | Planned | [Larger applications](04-basic-projects/) |
-| Engineering simulations | Planned | [Device and sensor scenarios](05-engineering-simulations/) |
+| 01. Python fundamentals | 8 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
+| 02. Data structures | Planned | [Lists, dictionaries and sorting](02-python-data-structures/) |
+| 03. Files and error handling | Planned | [File processing](03-files-and-errors/) |
+| 04. Object-oriented programming | Planned | [Classes, objects and OOP projects](04-object-oriented-programming/) |
+| 05. Basic projects | Planned | [Larger applications](05-basic-projects/) |
+| 06. Engineering simulations | Planned | [Device and sensor scenarios](06-engineering-simulations/) |
 
 [View the full exercise and project roadmap](ROADMAP.md).
 

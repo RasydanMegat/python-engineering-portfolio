@@ -1,14 +1,14 @@
-# Object-Oriented Programming
+# 04 - Object-Oriented Programming
 
 Planned Python exercises and projects for modelling devices, state, and behaviour with classes and objects. **Status: not started.**
 
 ## When to start
 
-Finish the remaining fundamentals exercises, then practise lists and dictionaries. Begin the first four OOP exercises once functions and these collections feel comfortable. Complete the file-handling stage before projects that save or load data.
+Complete fundamentals, data structures, and files and error handling first. You should be comfortable with functions, lists, dictionaries, and saving and loading data before starting this stage.
 
-Suggested order: fundamentals -> data structures -> OOP exercises -> file handling -> OOP projects.
+Learning order: fundamentals -> data structures -> files and error handling -> OOP -> basic projects -> engineering simulations.
 
-This folder is numbered `06` to preserve existing portfolio paths; the number does not require completing every simulation before learning OOP.
+Within this stage, complete the eight OOP exercises before the three OOP projects. The folder number `04` matches the roadmap.
 
 ## Learning objectives
 

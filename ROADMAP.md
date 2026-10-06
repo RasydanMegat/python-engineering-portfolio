@@ -2,6 +2,8 @@
 
 Eight fundamentals exercises are complete. Unchecked entries are planned work.
 
+Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
+
 ### 1. Python fundamentals
 
 - [x] Employee Pay Calculator
@@ -26,9 +28,17 @@ Eight fundamentals exercises are complete. Unchecked entries are planned work.
 - [ ] Student Result Manager
 - [ ] Equipment Status Summary
 
-### 3. Object-oriented programming
+### 3. Files and error handling
 
-Start after functions, lists and dictionaries. Complete file-handling practice before projects that persist data.
+- [ ] Temperature Log Analyzer
+- [ ] Email Hour Counter
+- [ ] Test Result Parser
+- [ ] Safe File Reader
+- [ ] Validated Data Entry
+
+### 4. Object-oriented programming
+
+Start after fundamentals, data structures, and file handling. Practise classes and objects before the OOP projects below.
 
 - [ ] Device Profile
 - [ ] Temperature Sensor
@@ -39,21 +49,13 @@ Start after functions, lists and dictionaries. Complete file-handling practice b
 - [ ] Common Sensor Interface
 - [ ] Testable Device State
 
-OOP projects (after the exercises and file handling):
+OOP projects (after the OOP exercises):
 
 - [ ] Equipment Inventory Manager
 - [ ] Sensor Monitoring Station Simulator
 - [ ] Battery-Powered Device Simulator
 
-[OOP learning objectives and completion targets](06-object-oriented-programming/README.md).
-
-### 4. File processing and errors
-
-- [ ] Temperature Log Analyzer
-- [ ] Email Hour Counter
-- [ ] Test Result Parser
-- [ ] Safe File Reader
-- [ ] Validated Data Entry
+[OOP learning objectives and completion targets](04-object-oriented-programming/README.md).
 
 ### 5. Basic projects
 
