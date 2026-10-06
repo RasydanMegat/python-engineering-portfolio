@@ -44,7 +44,7 @@ Requires Python 3.6 or later. The current exercises use Python's built-in featur
 Clone this repository, then run an exercise from the repository root:
 
 ```text
-git clone https://github.com/rsydnmgt2311/python-engineering-portfolio.git
+git clone https://github.com/RasydanMegat/python-engineering-portfolio.git
 cd python-engineering-portfolio
 python 01-python-fundamentals/04-functions/engineering-conversion-toolkit/main.py
 ```
