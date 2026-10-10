@@ -1,6 +1,6 @@
 # Python Fundamentals
 
-Eight completed exercises covering input, calculations, conditions, loops and functions.
+Nine completed exercises covering input, calculations, conditions, loops, functions and strings.
 
 | Exercise | Skills demonstrated |
 | --- | --- |
@@ -12,10 +12,10 @@ Eight completed exercises covering input, calculations, conditions, loops and fu
 | [Sensor Reading Analyzer](03-loops/sensor-reading-analyzer/) | Classification, counters and summary statistics |
 | [Engineering Conversion Toolkit](04-functions/engineering-conversion-toolkit/) | Reusable functions and menu input handling |
 | [Voltage Safety Checker](04-functions/voltage-safety-checker/) | Boolean validation and finite-number handling |
+| [Text Search Tool](05-strings/text-search-tool/) | Case-insensitive searching, match counting and string positions |
 
 ## Next exercises
 
-- [ ] Text Search Tool — string processing
 - [ ] Device Message Parser — structured text
 
 [Full learning roadmap](../ROADMAP.md) · [Portfolio overview](../README.md)

@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Eight fundamentals exercises are complete. Unchecked entries are planned work.
+Nine fundamentals exercises are complete. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -14,7 +14,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 - [x] Sensor Reading Analyzer
 - [x] Engineering Conversion Toolkit
 - [x] Voltage Safety Checker
-- [ ] Text Search Tool
+- [x] Text Search Tool
 - [ ] Device Message Parser
 
 ### 2. Python data structures
