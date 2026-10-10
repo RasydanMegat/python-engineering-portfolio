@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Nine fundamentals exercises are complete. Unchecked entries are planned work.
+All ten fundamentals exercises are complete. Next: Sensor Statistics in the data structures stage. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -15,7 +15,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 - [x] Engineering Conversion Toolkit
 - [x] Voltage Safety Checker
 - [x] Text Search Tool
-- [ ] Device Message Parser
+- [x] Device Message Parser
 
 ### 2. Python data structures
 

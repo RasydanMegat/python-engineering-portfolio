@@ -4,7 +4,7 @@ Practical Python exercises documenting my progress toward software, firmware, an
 
 I am building a foundation in programming through small, complete command-line programs: writing an initial implementation, checking edge cases, using review feedback, and documenting the results.
 
-**Progress: 9 completed exercises.** Current focus: string processing and input validation. Next planned exercise: Device Message Parser.
+**Progress: 10 completed exercises.** Python fundamentals complete. Next learning stage: data structures, starting with Sensor Statistics.
 
 ## Start here
 
@@ -29,6 +29,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 | [Engineering Conversion Toolkit](01-python-fundamentals/04-functions/engineering-conversion-toolkit/) | Reusable functions and menu input handling |
 | [Voltage Safety Checker](01-python-fundamentals/04-functions/voltage-safety-checker/) | Boolean validation and finite-number handling |
 | [Text Search Tool](01-python-fundamentals/05-strings/text-search-tool/) | Case-insensitive searching, match counting and string positions |
+| [Device Message Parser](01-python-fundamentals/05-strings/device-message-parser/) | String slicing, structured-message validation and status summaries |
 
 ## Skills demonstrated
 
@@ -59,7 +60,7 @@ The folder numbers match the learning order below. Small exercises and projects 
 
 | Stage | Status | Explore |
 | --- | --- | --- |
-| 01. Python fundamentals | 9 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
+| 01. Python fundamentals | 10 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
 | 02. Data structures | Planned | [Lists, dictionaries and sorting](02-python-data-structures/) |
 | 03. Files and error handling | Planned | [File processing](03-files-and-errors/) |
 | 04. Object-oriented programming | Planned | [Classes, objects and OOP projects](04-object-oriented-programming/) |
