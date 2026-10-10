@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Twelve exercises are complete: all ten fundamentals exercises and two data structures exercises. Next: Error Frequency Counter. Unchecked entries are planned work.
+Thirteen exercises are complete: all ten fundamentals exercises and three data structures exercises. Next: Component Inventory. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -21,7 +21,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 
 - [x] Sensor Statistics
 - [x] Production Result List
-- [ ] Error Frequency Counter
+- [x] Error Frequency Counter
 - [ ] Component Inventory
 - [ ] Sorted Equipment Results
 - [ ] Most Common Error

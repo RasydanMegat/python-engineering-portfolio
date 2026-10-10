@@ -4,7 +4,7 @@ Practical Python exercises documenting my progress toward software, firmware, an
 
 I am building a foundation in programming through small, complete command-line programs: writing an initial implementation, checking edge cases, using review feedback, and documenting the results.
 
-**Progress: 12 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Error Frequency Counter.
+**Progress: 13 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Component Inventory.
 
 ## Start here
 
@@ -32,6 +32,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 | [Device Message Parser](01-python-fundamentals/05-strings/device-message-parser/) | String slicing, structured-message validation and status summaries |
 | [Sensor Statistics](02-python-data-structures/01-lists/sensor-statistics/) | List-based collection, finite-number validation and summary statistics |
 | [Production Result List](02-python-data-structures/01-lists/production-result-list/) | Ordered lists, category counts and pass-rate calculation |
+| [Error Frequency Counter](02-python-data-structures/02-dictionaries/error-frequency-counter/) | Dictionary-based frequency counting and first-seen order |
 
 ## Skills demonstrated
 
@@ -63,7 +64,7 @@ The folder numbers match the learning order below. Small exercises and projects 
 | Stage | Status | Explore |
 | --- | --- | --- |
 | 01. Python fundamentals | 10 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
-| 02. Data structures | 2 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
+| 02. Data structures | 3 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
 | 03. Files and error handling | Planned | [File processing](03-files-and-errors/) |
 | 04. Object-oriented programming | Planned | [Classes, objects and OOP projects](04-object-oriented-programming/) |
 | 05. Basic projects | Planned | [Larger applications](05-basic-projects/) |
