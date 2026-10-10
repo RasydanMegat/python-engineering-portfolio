@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Eleven exercises are complete: all ten fundamentals exercises and Sensor Statistics. Next: Production Result List in the data structures stage. Unchecked entries are planned work.
+Twelve exercises are complete: all ten fundamentals exercises and two data structures exercises. Next: Error Frequency Counter. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -20,7 +20,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 ### 2. Python data structures
 
 - [x] Sensor Statistics
-- [ ] Production Result List
+- [x] Production Result List
 - [ ] Error Frequency Counter
 - [ ] Component Inventory
 - [ ] Sorted Equipment Results
