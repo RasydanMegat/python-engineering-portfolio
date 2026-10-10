@@ -1,6 +1,6 @@
 # 02 - Python Data Structures
 
-Planned exercises for practising Python lists, dictionaries, tuples, and sorting.
+Exercises for practising Python lists, dictionaries, tuples, and sorting. **Progress: 1 of 8 exercises complete.**
 
 ## Topics
 
@@ -11,13 +11,20 @@ Planned exercises for practising Python lists, dictionaries, tuples, and sorting
 - Sorting
 - Combining data structures
 
-## Planned exercises
+## Completed exercises
 
-1. Sensor Statistics
-2. Production Result List
-3. Error Frequency Counter
-4. Component Inventory
-5. Sorted Equipment Results
-6. Most Common Error
-7. Student Result Manager
-8. Equipment Status Summary
+| Exercise | Skills demonstrated |
+| --- | --- |
+| [Sensor Statistics](01-lists/sensor-statistics/) | List collection, finite-number validation, minimum, maximum and average |
+
+## Remaining exercises
+
+1. Production Result List
+2. Error Frequency Counter
+3. Component Inventory
+4. Sorted Equipment Results
+5. Most Common Error
+6. Student Result Manager
+7. Equipment Status Summary
+
+[Learning roadmap](../ROADMAP.md) · [Portfolio overview](../README.md)
