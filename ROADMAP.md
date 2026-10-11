@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Thirteen exercises are complete: all ten fundamentals exercises and three data structures exercises. Next: Component Inventory. Unchecked entries are planned work.
+Fourteen exercises are complete: all ten fundamentals exercises and four data structures exercises. Next: Sorted Equipment Results. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -22,7 +22,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 - [x] Sensor Statistics
 - [x] Production Result List
 - [x] Error Frequency Counter
-- [ ] Component Inventory
+- [x] Component Inventory
 - [ ] Sorted Equipment Results
 - [ ] Most Common Error
 - [ ] Student Result Manager
