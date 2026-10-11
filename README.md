@@ -4,7 +4,7 @@ Practical Python exercises documenting my progress toward software, firmware, an
 
 I am building a foundation in programming through small, complete command-line programs: writing an initial implementation, checking edge cases, using review feedback, and documenting the results.
 
-**Progress: 15 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Most Common Error.
+**Progress: 16 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Student Result Manager.
 
 ## Start here
 
@@ -35,6 +35,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 | [Error Frequency Counter](02-python-data-structures/02-dictionaries/error-frequency-counter/) | Dictionary-based frequency counting and first-seen order |
 | [Component Inventory](02-python-data-structures/02-dictionaries/component-inventory/) | Dictionary updates, stock validation and component removal |
 | [Sorted Equipment Results](02-python-data-structures/03-sorting/sorted-equipment-results/) | Sorting by score and name, duplicate detection and ranked output |
+| [Most Common Error](02-python-data-structures/03-sorting/most-common-error/) | Frequency ranking, tied leaders and formatted summaries |
 
 ## Skills demonstrated
 
@@ -66,7 +67,7 @@ The folder numbers match the learning order below. Small exercises and projects 
 | Stage | Status | Explore |
 | --- | --- | --- |
 | 01. Python fundamentals | 10 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
-| 02. Data structures | 5 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
+| 02. Data structures | 6 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
 | 03. Files and error handling | Planned | [File processing](03-files-and-errors/) |
 | 04. Object-oriented programming | Planned | [Classes, objects and OOP projects](04-object-oriented-programming/) |
 | 05. Basic projects | Planned | [Larger applications](05-basic-projects/) |
