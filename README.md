@@ -4,7 +4,7 @@ Practical Python exercises documenting my progress toward software, firmware, an
 
 I am building a foundation in programming through small, complete command-line programs: writing an initial implementation, checking edge cases, using review feedback, and documenting the results.
 
-**Progress: 14 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Sorted Equipment Results.
+**Progress: 15 completed exercises.** Python fundamentals complete; data structures in progress. Next planned exercise: Most Common Error.
 
 ## Start here
 
@@ -34,6 +34,7 @@ These are learning exercises using keyboard input. The engineering examples simu
 | [Production Result List](02-python-data-structures/01-lists/production-result-list/) | Ordered lists, category counts and pass-rate calculation |
 | [Error Frequency Counter](02-python-data-structures/02-dictionaries/error-frequency-counter/) | Dictionary-based frequency counting and first-seen order |
 | [Component Inventory](02-python-data-structures/02-dictionaries/component-inventory/) | Dictionary updates, stock validation and component removal |
+| [Sorted Equipment Results](02-python-data-structures/03-sorting/sorted-equipment-results/) | Sorting by score and name, duplicate detection and ranked output |
 
 ## Skills demonstrated
 
@@ -46,7 +47,7 @@ Firmware and embedded systems are career interests. Object-oriented programming 
 
 ## Run an exercise
 
-Requires Python 3.6 or later. The current exercises use Python's built-in features and need no additional packages.
+Requires Python 3.7 or later to run all exercises. The current exercises use Python's built-in features and need no additional packages.
 
 Clone this repository, then run an exercise from the repository root:
 
@@ -65,7 +66,7 @@ The folder numbers match the learning order below. Small exercises and projects 
 | Stage | Status | Explore |
 | --- | --- | --- |
 | 01. Python fundamentals | 10 of 10 exercises complete | [Fundamentals](01-python-fundamentals/) |
-| 02. Data structures | 4 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
+| 02. Data structures | 5 of 8 exercises complete | [Lists, dictionaries and sorting](02-python-data-structures/) |
 | 03. Files and error handling | Planned | [File processing](03-files-and-errors/) |
 | 04. Object-oriented programming | Planned | [Classes, objects and OOP projects](04-object-oriented-programming/) |
 | 05. Basic projects | Planned | [Larger applications](05-basic-projects/) |

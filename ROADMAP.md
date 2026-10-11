@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Fourteen exercises are complete: all ten fundamentals exercises and four data structures exercises. Next: Sorted Equipment Results. Unchecked entries are planned work.
+Fifteen exercises are complete: all ten fundamentals exercises and five data structures exercises. Next: Most Common Error. Unchecked entries are planned work.
 
 Follow stages 1–6 in order; their numbers match the repository folders. Practise with small programs throughout, then combine those skills in the larger projects.
 
@@ -23,7 +23,7 @@ Follow stages 1–6 in order; their numbers match the repository folders. Practi
 - [x] Production Result List
 - [x] Error Frequency Counter
 - [x] Component Inventory
-- [ ] Sorted Equipment Results
+- [x] Sorted Equipment Results
 - [ ] Most Common Error
 - [ ] Student Result Manager
 - [ ] Equipment Status Summary
